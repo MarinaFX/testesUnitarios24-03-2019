@@ -55,16 +55,11 @@ public class AppTeste {
                 MockContaMagica auxConta = cadastro.pesquisaContas();
 
                 if (!(auxConta == null)) {
-                    try {
-                        resposta = AppTeste.fazPergunta("Insira a quantia a ser depositada: ");
-                        aux = auxConta.deposito(new BigDecimal(resposta));
+                    resposta = AppTeste.fazPergunta("Insira a quantia a ser depositada: ");
+                    aux = auxConta.deposito(new BigDecimal(resposta));
 
-                        if (aux) {
-                            System.out.println("Deposito realizado com sucesso!");
-                        }
-
-                    } catch (IllegalArgumentException f) {
-                        System.out.println(f.getMessage());
+                    if (aux) {
+                        System.out.println("Deposito realizado com sucesso!");
                     }
                 }
 
@@ -76,16 +71,11 @@ public class AppTeste {
                     MockContaMagica auxConta = cadastro.pesquisaContas();
 
                     if (!(auxConta == null)) {
-                        try {
-                            resposta = AppTeste.fazPergunta("Insira a quantia a ser sacada: ");
-                            aux = auxConta.retirada(new BigDecimal(resposta));
+                        resposta = AppTeste.fazPergunta("Insira a quantia a ser sacada: ");
+                        aux = auxConta.retirada(new BigDecimal(resposta));
 
-                            if (aux) {
-                                System.out.println("Saque realizado com sucesso!");
-                            }
-
-                        } catch (IllegalArgumentException f) {
-                            System.out.println(f.getMessage());
+                        if (aux) {
+                            System.out.println("Saque realizado com sucesso!");
                         }
                     }
 
