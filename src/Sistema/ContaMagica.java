@@ -1,4 +1,4 @@
-package System;
+package Sistema;
 
 import java.math.BigDecimal;
 
@@ -100,7 +100,7 @@ public class ContaMagica implements Comparable {
     @Override
     public int compareTo(Object o) {
         if (o instanceof ContaMagica) {
-            if (!(this.getNomeCliente().equals(((ContaMagica) o).getNomeCliente()))) {
+            if ((this.getNomeCliente().equals(((ContaMagica) o).getNomeCliente()))) {
                 return 1;
             } else {
                 return -1;

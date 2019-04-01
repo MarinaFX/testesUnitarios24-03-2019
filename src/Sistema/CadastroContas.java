@@ -1,4 +1,4 @@
-package System;
+package Sistema;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -20,7 +20,7 @@ public class CadastroContas {
             return true;
         } else {
             for (ContaMagica f : contas) {
-                if (f.compareTo(newConta) > 0) {
+                if (f.compareTo(newConta) < 0) {
                     contas.add(newConta);
                     return true;
                 }

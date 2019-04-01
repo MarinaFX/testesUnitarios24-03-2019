@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fed7dc3c-fdab-4126-a20d-0116b23e8bd1" name="Default Changelist" comment="" />
+    <list default="true" id="fed7dc3c-fdab-4126-a20d-0116b23e8bd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Dubles/MockCadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyCadastro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyCategoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyContaMagica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/DummieTests/DummyCadastroTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/DummieTests/DummyCategoriaTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/DummieTests/DummyContaTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/CadastroContas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/Categoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/ContaMagica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/UnitaryTest/contaMagicaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/UnitaryTest/contaMagicaTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyCadastro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyCategoria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyContaMagica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dubles/MockContaMagica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DummieTests/DummyCategoriaTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DummieTests/DummyContaTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/CadastroContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/CadastroContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/System/ContaMagica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/ContaMagica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UnitaryTest/contaMagicaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,47 +68,89 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1499673668">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1862" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1862" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/AppTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2560">
+              <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockCadastroContasTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTeste.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Dubles/DummyApp.java">
+        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-580">
+              <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dubles/DummyCadastro.java">
+        <entry file="file://$PROJECT_DIR$/src/Sistema/ContaMagica.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dubles/DummyContaMagica.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="-200">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -91,9 +160,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,9 +178,24 @@
         <option value="$PROJECT_DIR$/src/DummieTests/DummyCategoriaTeste.java" />
         <option value="$PROJECT_DIR$/src/System/App.java" />
         <option value="$PROJECT_DIR$/src/Dubles/DummyContaMagica.java" />
-        <option value="$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java" />
         <option value="$PROJECT_DIR$/src/Dubles/DummyCadastro.java" />
+        <option value="$PROJECT_DIR$/src/UnitaryTest/contaMagicaTeste.java" />
+        <option value="$PROJECT_DIR$/src/DummieTests/DummyContaTeste.java" />
         <option value="$PROJECT_DIR$/src/Dubles/DummyApp.java" />
+        <option value="$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java" />
+        <option value="$PROJECT_DIR$/src/System/ContaMagica.java" />
+        <option value="$PROJECT_DIR$/src/Dubles/MockCadastro.java" />
+        <option value="$PROJECT_DIR$/src/Dubles/MockContaMagica.java" />
+        <option value="$PROJECT_DIR$/src/Dubles/Operacoes.java" />
+        <option value="$PROJECT_DIR$/src/System/Teste.java" />
+        <option value="$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTese.java" />
+        <option value="$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTeste.java" />
+        <option value="$PROJECT_DIR$/src/UnitaryTest/CadastroContasMockTeste.java" />
+        <option value="$PROJECT_DIR$/src/UnitaryTest/AppTeste.java" />
+        <option value="$PROJECT_DIR$/src/Sistema/App.java" />
+        <option value="$PROJECT_DIR$/src/Sistema/CadastroContas.java" />
+        <option value="$PROJECT_DIR$/src/Sistema/ContaMagica.java" />
+        <option value="$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java" />
       </list>
     </option>
   </component>
@@ -127,39 +215,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="testesUnitarios24-03-2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testesUnitarios24-03-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testesUnitarios24-03-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="apiguardian-api-1.0.0.jar" type="ab9368bb:PsiFileNode" />
-            </path>
-            <path>
-              <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testesUnitarios24-03-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="apiguardian-api-1.0.0.jar" type="ab9368bb:PsiFileNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testesUnitarios24-03-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="apiguardian-api-1.0.0.jar" type="ab9368bb:PsiFileNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
@@ -176,13 +240,7 @@
               <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="testesUnitarios24-03-2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DummieTests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testesUnitarios24-03-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="System" type="462c0819:PsiDirectoryNode" />
+              <item name="Sistema" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testesUnitarios24-03-2019" type="b2602c69:ProjectViewProjectNode" />
@@ -194,7 +252,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,8 +260,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553438931195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553985470887" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -221,13 +279,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DummyApp">
-    <configuration name="DummyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dubles.DummyApp" />
+  <component name="RunManager" selected="JUnit.ContaMagicaTeste">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sistema.App" />
       <module name="testesUnitarios24-03-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dubles.*" />
+          <option name="PATTERN" value="Sistema.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,60 +293,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DummieContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnitaryTest.AppTeste" />
       <module name="testesUnitarios24-03-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DummieTests.*" />
+          <option name="PATTERN" value="UnitaryTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DummieTests" />
-      <option name="MAIN_CLASS_NAME" value="DummieTests.DummieContaTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DummyCadastroTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaMagicaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testesUnitarios24-03-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DummieTests.*" />
+          <option name="PATTERN" value="UnitaryTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DummieTests" />
-      <option name="MAIN_CLASS_NAME" value="DummieTests.DummyCadastroTeste" />
+      <option name="PACKAGE_NAME" value="UnitaryTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitaryTest.ContaMagicaTeste" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DummyCategoriaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MockCadastroContasTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testesUnitarios24-03-2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DummieTests.*" />
+          <option name="PATTERN" value="UnitaryTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DummieTests" />
-      <option name="MAIN_CLASS_NAME" value="DummieTests.DummyCategoriaTeste" />
+      <option name="PACKAGE_NAME" value="UnitaryTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitaryTest.MockCadastroContasTeste" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockContaMagicaTeste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testesUnitarios24-03-2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitaryTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnitaryTest" />
+      <option name="MAIN_CLASS_NAME" value="UnitaryTest.MockContaMagicaTeste" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DummieContaTest" />
-      <item itemvalue="JUnit.DummyCadastroTeste" />
-      <item itemvalue="JUnit.DummyCategoriaTeste" />
-      <item itemvalue="Application.DummyApp" />
+      <item itemvalue="JUnit.MockCadastroContasTeste" />
+      <item itemvalue="Application.AppTeste" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.MockContaMagicaTeste" />
+      <item itemvalue="JUnit.ContaMagicaTeste" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DummyApp" />
-        <item itemvalue="JUnit.DummyCategoriaTeste" />
-        <item itemvalue="JUnit.DummyCadastroTeste" />
-        <item itemvalue="JUnit.DummieContaTest" />
+        <item itemvalue="JUnit.ContaMagicaTeste" />
+        <item itemvalue="JUnit.MockContaMagicaTeste" />
+        <item itemvalue="JUnit.MockCadastroContasTeste" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.AppTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -303,22 +376,45 @@
       <option name="presentableId" value="Default" />
       <updated>1553433375080</updated>
       <workItem from="1553433377258" duration="5620000" />
+      <workItem from="1553955746136" duration="4167000" />
+      <workItem from="1553979174205" duration="2943000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DummieContaTest - 2019.03.24 at 10h 46m 25s.xml">
-      <configuration name="DummieContaTest" configurationId="JUnit" />
+    <history-entry file="CadastroContasMockTeste_testePesquisaConta - 2019.03.30 at 12h 37m 37s.xml">
+      <configuration name="CadastroContasMockTeste.testePesquisaConta" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DummyCadastroTeste - 2019.03.24 at 11h 00m 36s.xml">
-      <configuration name="DummyCadastroTeste" configurationId="JUnit" />
+    <history-entry file="CadastroContasMockTeste_testePesquisaConta - 2019.03.30 at 12h 38m 18s.xml">
+      <configuration name="CadastroContasMockTeste.testePesquisaConta" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DummyCategoriaTeste - 2019.03.24 at 11h 05m 23s.xml">
-      <configuration name="DummyCategoriaTeste" configurationId="JUnit" />
+    <history-entry file="CadastroContasMockTeste_testePesquisaConta - 2019.03.30 at 12h 38m 58s.xml">
+      <configuration name="CadastroContasMockTeste.testePesquisaConta" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockContaMagicaTese - 2019.03.30 at 12h 53m 46s.xml">
+      <configuration name="MockContaMagicaTese" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockCadastroContasTeste - 2019.03.30 at 19h 05m 14s.xml">
+      <configuration name="MockCadastroContasTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MockContaMagicaTeste - 2019.03.30 at 19h 05m 19s.xml">
+      <configuration name="MockContaMagicaTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContaMagicaTeste - 2019.03.30 at 19h 05m 26s.xml">
+      <configuration name="ContaMagicaTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContaMagicaTeste - 2019.03.30 at 19h 06m 00s.xml">
+      <configuration name="ContaMagicaTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContaMagicaTeste - 2019.03.30 at 19h 09m 54s.xml">
+      <configuration name="ContaMagicaTeste" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContaMagicaTeste - 2019.03.30 at 19h 10m 43s.xml">
+      <configuration name="ContaMagicaTeste" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5620000" />
+    <option name="totallyTimeSpent" value="12730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -329,18 +425,18 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15831557" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.15085287" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" x="-1365" y="332" width="681" height="696" id="Messages" order="0" type="WINDOWED" weight="0.3275488" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" x="-1366" y="324" width="1366" height="705" id="Run" order="6" type="WINDOWED" weight="0.32936507" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.329718" />
+      <window_info anchor="bottom" x="-1365" y="332" width="1122" height="696" id="Run" order="6" type="WINDOWED" weight="0.32936507" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" x="-1365" y="332" width="576" height="696" id="Debug" order="8" type="WINDOWED" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -362,87 +458,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/System/ContaMagica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="107" column="9" lean-forward="true" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/System/Categoria.java">
+    <entry file="file://$PROJECT_DIR$/src/Sistema/Categoria.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyContaTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/System/CadastroContas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyCategoriaTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/System/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="113" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dubles/DummyCategoria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dubles/DummyContaMagica.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dubles/DummyCadastro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,19 +469,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dubles/DummyCategoria.java" />
+    <entry file="file://$PROJECT_DIR$/src/MockTestes/DummyContaTeste.java" />
+    <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java" />
+    <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyCategoriaTeste.java" />
+    <entry file="file://$PROJECT_DIR$/src/System/Teste.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dubles/Operacoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dubles/DummyApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/Dubles/MockContaMagica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dubles/DummyApp.java">
+    <entry file="file://$PROJECT_DIR$/src/Dubles/MockCadastro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sistema/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="111" column="9" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sistema/CadastroContas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnitaryTest/AppTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2560">
+          <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockCadastroContasTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sistema/ContaMagica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
         </state>
       </provider>
     </entry>

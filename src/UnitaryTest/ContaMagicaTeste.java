@@ -1,7 +1,7 @@
 package UnitaryTest;
 
-import System.Categoria;
-import System.ContaMagica;
+import Sistema.Categoria;
+import Sistema.ContaMagica;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
  *  Exemplo: antes de fazer os testes da conta o getStatus funcionava.
  */
 
-public class contaMagicaTeste {
+public class ContaMagicaTeste {
     private ContaMagica conta;
 
     @BeforeEach
@@ -64,25 +64,25 @@ public class contaMagicaTeste {
     @Test
     public void testeDepositoJaEmGoldExtamenteCinquentaMil(){
         conta.deposito(new BigDecimal(40000));
-        Assertions.assertEquals(new BigDecimal(50500), conta.getSaldo());
+        Assertions.assertEquals(new BigDecimal(50400), conta.getSaldo());
     }
 
     @Test
-    public void testeDepositoSemSairDeCinquentaMil(){
+    public void testeDepositoSemSairDeGold(){
         conta.deposito(new BigDecimal(105000));
-        Assertions.assertEquals(new BigDecimal(116150), conta.getSaldo());
+        Assertions.assertEquals(new BigDecimal(116050), conta.getSaldo());
     }
 
     @Test
     public void testeDepositoPlatinumExatamenteDuzentos(){
         conta.deposito(new BigDecimal(190000));
-        Assertions.assertEquals(new BigDecimal(205000), conta.getSaldo());
+        Assertions.assertEquals(new BigDecimal(204750), conta.getSaldo());
     }
 
     @Test
     public void testeDepositoPlatinumAcimaDeDuzentos(){
         conta.deposito(new BigDecimal(215000));
-        Assertions.assertEquals(new BigDecimal(230625), conta.getSaldo());
+        Assertions.assertEquals(new BigDecimal(230375), conta.getSaldo());
     }
 
     @Test
@@ -94,14 +94,14 @@ public class contaMagicaTeste {
     public void testeRetiradaPlatinumParaGold(){
         conta.deposito(new BigDecimal(215000));
         conta.retirada(new BigDecimal(140000));
-        Assertions.assertEquals(new BigDecimal(90625), conta.getSaldo());
+        Assertions.assertEquals(new BigDecimal(90375), conta.getSaldo());
     }
 
     @Test
     public void testeRetiradaGoldParaSilver(){
         conta.deposito(new BigDecimal(40000));
         conta.retirada(new BigDecimal(30000));
-        Assertions.assertEquals(new BigDecimal(20500), conta.getSaldo());
+        Assertions.assertEquals(new BigDecimal(20400), conta.getSaldo());
     }
 
     @Test

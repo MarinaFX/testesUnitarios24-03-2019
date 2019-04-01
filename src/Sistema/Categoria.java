@@ -1,4 +1,4 @@
-package System;
+package Sistema;
 
 public enum Categoria {
     SILVER,
