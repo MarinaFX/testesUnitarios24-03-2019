@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fed7dc3c-fdab-4126-a20d-0116b23e8bd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dubles/MockCadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyCadastro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyCategoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/Dubles/DummyContaMagica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/DummieTests/DummyCadastroTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/DummieTests/DummyCategoriaTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/DummieTests/DummyContaTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/CadastroContas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/Categoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/System/ContaMagica.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/UnitaryTest/contaMagicaTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testesUnitarios24-03-2019/UnitaryTest/contaMagicaTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyCadastro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyCategoria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dubles/DummyContaMagica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dubles/MockContaMagica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DummieTests/DummyCategoriaTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DummieTests/DummyContaTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/CadastroContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/CadastroContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/Categoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/System/ContaMagica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema/ContaMagica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UnitaryTest/contaMagicaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dubles/Operacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dubles/Operacoes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,121 +13,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1504826195">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="3046" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3046" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1499673668">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1862" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1862" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="33" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="33" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/AppTeste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2560">
-              <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockCadastroContasTeste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTeste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java">
+        <entry file="file://$PROJECT_DIR$/src/Dubles/Operacoes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-580">
-              <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sistema/ContaMagica.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-200">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="110">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -186,7 +55,6 @@
         <option value="$PROJECT_DIR$/src/System/ContaMagica.java" />
         <option value="$PROJECT_DIR$/src/Dubles/MockCadastro.java" />
         <option value="$PROJECT_DIR$/src/Dubles/MockContaMagica.java" />
-        <option value="$PROJECT_DIR$/src/Dubles/Operacoes.java" />
         <option value="$PROJECT_DIR$/src/System/Teste.java" />
         <option value="$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTese.java" />
         <option value="$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTeste.java" />
@@ -196,14 +64,9 @@
         <option value="$PROJECT_DIR$/src/Sistema/CadastroContas.java" />
         <option value="$PROJECT_DIR$/src/Sistema/ContaMagica.java" />
         <option value="$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java" />
+        <option value="$PROJECT_DIR$/src/Dubles/Operacoes.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="610" />
@@ -216,8 +79,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,6 +113,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +122,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553985470887" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554145773607" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -349,9 +211,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.MockCadastroContasTeste" />
       <item itemvalue="Application.AppTeste" />
       <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.MockCadastroContasTeste" />
       <item itemvalue="JUnit.MockContaMagicaTeste" />
       <item itemvalue="JUnit.ContaMagicaTeste" />
     </list>
@@ -378,6 +240,7 @@
       <workItem from="1553433377258" duration="5620000" />
       <workItem from="1553955746136" duration="4167000" />
       <workItem from="1553979174205" duration="2943000" />
+      <workItem from="1554144935376" duration="661000" />
     </task>
     <servers />
   </component>
@@ -414,20 +277,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12730000" />
+    <option name="totallyTimeSpent" value="13391000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.15085287" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18229954" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" x="-1365" y="332" width="681" height="696" id="Messages" order="0" type="WINDOWED" weight="0.3275488" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -440,6 +303,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -453,9 +317,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Sistema/Categoria.java">
@@ -477,13 +338,6 @@
     <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyCadastroTeste.java" />
     <entry file="file://$PROJECT_DIR$/src/DummieTests/DummyCategoriaTeste.java" />
     <entry file="file://$PROJECT_DIR$/src/System/Teste.java" />
-    <entry file="file://$PROJECT_DIR$/src/Dubles/Operacoes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dubles/DummyApp.java" />
     <entry file="file://$PROJECT_DIR$/src/Dubles/MockContaMagica.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -521,7 +375,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UnitaryTest/AppTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2560">
+        <state relative-caret-position="2706">
           <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -531,7 +385,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockCadastroContasTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="132">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -541,7 +395,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UnitaryTest/MockContaMagicaTeste.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
+        <state relative-caret-position="88">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -549,17 +403,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sistema/ContaMagica.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
+        <state relative-caret-position="22">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UnitaryTest/ContaMagicaTeste.java">
+    <entry file="file://$PROJECT_DIR$/src/Dubles/Operacoes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
-          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="110">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
