@@ -40,7 +40,7 @@ public class AppTeste {
 
         if (escolha.equals("1")) {
             resposta = AppTeste.fazPergunta("Insira o titular da nova conta: ");
-            aux = cadastro.insereConta();
+            aux = cadastro.insereConta(new MockContaMagica());
 
             if (aux)
                 System.out.println("Conta criada!");
@@ -52,7 +52,7 @@ public class AppTeste {
         } else {
             if (escolha.equals("2")) {
                 resposta = AppTeste.fazPergunta("Insira a conta para o deposito: ");
-                MockContaMagica auxConta = cadastro.pesquisaContas();
+                MockContaMagica auxConta = cadastro.pesquisaContas(new MockContaMagica());
 
                 if (!(auxConta == null)) {
                     resposta = AppTeste.fazPergunta("Insira a quantia a ser depositada: ");
@@ -68,7 +68,7 @@ public class AppTeste {
             } else {
                 if (escolha.equals("3")) {
                     resposta = AppTeste.fazPergunta("Insira a conta para o saque: ");
-                    MockContaMagica auxConta = cadastro.pesquisaContas();
+                    MockContaMagica auxConta = cadastro.pesquisaContas(new MockContaMagica());
 
                     if (!(auxConta == null)) {
                         resposta = AppTeste.fazPergunta("Insira a quantia a ser sacada: ");
@@ -84,7 +84,7 @@ public class AppTeste {
                 } else {
                     if (escolha.equals("4")) {
                         resposta = AppTeste.fazPergunta("Insira o titular da conta a ser encerrada: ");
-                        aux = cadastro.removeConta();
+                        aux = cadastro.removeConta(new MockContaMagica());
 
                         if (aux)
                             System.out.println("Conta encerrada com sucesso!");

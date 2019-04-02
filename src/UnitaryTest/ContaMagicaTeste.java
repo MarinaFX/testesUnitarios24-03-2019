@@ -2,13 +2,13 @@ package UnitaryTest;
 
 import Sistema.Categoria;
 import Sistema.ContaMagica;
+import java.math.BigDecimal;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-
-import java.math.BigDecimal;
-
 import static org.junit.jupiter.api.Assertions.assertThrows;
+
+
 
 /*
  * PREGUNTAS - Como podemos definir a ordem de execução dos testes? Existe um @Before para testes de maneira individual?
